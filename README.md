@@ -9,3 +9,7 @@
 - ISBN：**978-7-115-44330-4**
 - 定价：**RMB &yen;49.80**
 - 教材配套网站：[中国高校大数据课程公共服务平台](https://dblab.xmu.edu.cn/post/bigdata-teaching-platform)
+
+## 📢公告
+
+此项目中的所有`*.csv`数据集均已通过 BFG Repository Cleaner 移除，不再随项目提供数据集！请知悉！
